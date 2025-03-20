@@ -1,0 +1,10 @@
+line 1
+line 2
+line 3
+line 4
+great change 
+<<<<<<<
+>>>>>>>>
+test
+git push
+11.04 test
